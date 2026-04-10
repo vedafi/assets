@@ -1,0 +1,16 @@
+{
+  "name": "VedaFi",
+  "website": "https://vedafi.in",
+  "description": "India's first mobile recharge cashback utility token on Polygon. Earn 5% cashback in $VEDA on every mobile top-up.",
+  "explorer": "https://polygonscan.com/token/0xe61BAa9b15cC4F1e715A11490ac903363b36Fff0",
+  "type": "ERC20",
+  "symbol": "VEDA",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xe61BAa9b15cC4F1e715A11490ac903363b36Fff0",
+  "links": [
+    { "name": "website", "url": "https://vedafi.in" },
+    { "name": "twitter", "url": "https://twitter.com/VedaFiToken" }
+  ],
+  "tags": ["staking", "defi"]
+}
