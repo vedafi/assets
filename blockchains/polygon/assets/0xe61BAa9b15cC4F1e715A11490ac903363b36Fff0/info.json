@@ -9,8 +9,8 @@
   "status": "active",
   "id": "0xe61BAa9b15cC4F1e715A11490ac903363b36Fff0",
   "links": [
-    { "name": "website", "url": "https://vedafi.in" },
-    { "name": "twitter", "url": "https://twitter.com/VedaFiToken" }
+    { "name": "twitter", "url": "https://twitter.com/VedaFiToken" },
+    { "name": "telegram", "url": "https://t.me/vedafi" }
   ],
-  "tags": ["staking", "defi"]
+  "tags": ["defi"]
 }
